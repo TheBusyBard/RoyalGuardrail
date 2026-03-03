@@ -42,7 +42,8 @@ Search for **Royal GuardRails** by **TheBusyBard**, or use the direct link once 
 
 ### Manual / Developer Install
 
-1. Clone or download this repo - Hit the ... and download as a zip, or use clone commands if you know how to use git.
+1. Clone or download this repo here: [RoyalGuardRails](https://github.com/TheBusyBard/RoyalGuardrails)
+- Hit the ... and download as a zip, or use clone commands if you know how to use git.
    ```
    git clone https://github.com/TheBusyBard/RoyalGuardrails.git
    ```
